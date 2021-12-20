@@ -1,6 +1,6 @@
 # Notes-Basic 
-<a href="https://github.com/vishwasracharya/Dice-Game/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishwasracharya/Notes-Basic?color=blue"></a>
-<a href="https://github.com/vishwasracharya/Dice-Game/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishwasracharya/Notes-Basic?color=orange"></a>
+<a href="https://github.com/vishwasracharya/Notes-Basic/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishwasracharya/Notes-Basic?color=blue"></a>
+<a href="https://github.com/vishwasracharya/Notes-Basic/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishwasracharya/Notes-Basic?color=orange"></a>
 
 A Notes App using only basic technologies, includes: HTML5, CSS3, JavaScript.
 
