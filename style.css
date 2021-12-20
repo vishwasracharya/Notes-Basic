@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Graduate&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: rgb(231, 231, 231);
+    color: black;
+}
+.head{
+    margin: 1em;
+}
+.head-title{
+    font-size: 5em;
+    font-family: 'Black Ops One', cursive;
+    font-weight: bolder;
+}
+.add-notes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+}
+.your-notes{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.notes-textbox{
+    border: none;
+    outline: none;
+    /* background-color: rgba(231, 231, 231, 0.863); */
+    padding: 0.5em;
+    border-radius: 10px;
+    width: 20em;
+    overflow: auto;
+    margin: 5px;
+}
+.btn{ 
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 0.3em;
+}
+.btn-add{
+    background: rgb(255, 145, 0);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    transition: 0.5s;
+}
+.display-notes{
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+}
+.notes-display{
+    padding: 10px;
+    width: fit-content;
+    border: none;
+    outline: none;
+    /* background-color: rgba(231, 231, 231, 0.863); */
+    border-radius: 10px 0px 0px 10px;
+}
+.btn-delete{
+    background: rgb(255, 17, 0);
+    border-radius: 0px 10px 10px 0px;
+    transition: 0.5s;
+}
+.btn:hover{
+    box-shadow: 0px 0px 5px rgb(44, 44, 44);
+}
+.footer-link{
+    font-family: 'Graduate', cursive;
+    text-align: center;
+}
+a{
+    display: block;
+    text-decoration: none;
+    color: black;
+}
